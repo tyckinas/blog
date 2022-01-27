@@ -1,0 +1,6 @@
+As a user, I should be able to create an account
+As a user , I should be able to have my profile and be able to edit it 
+As a user, I should be able to read, create , update and delete my blog posts
+As a user , I should be able to read all posts that were posted by other users
+As a user , I should be able to post comments on mine and other users posts 
+
